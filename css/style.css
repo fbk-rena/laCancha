@@ -1,0 +1,58 @@
+.base{
+   position: absolute;
+   width: 85%;
+   height: 70%;
+   background-color: green;
+   margin: 10%;
+}
+.margen{
+   position: relative;
+   width: 94%;
+   height: 90%;
+   border: 1.5px solid white;
+   margin-top: 2.5%;
+   margin-left: 2.5%;
+	
+}
+.porteria{
+   position: relative;
+   display: inline-block;
+   width: 15%;
+   height: 50%;
+   border: 1.5px solid white;
+   top: 25%;
+}
+
+.der{
+   float: right;
+}
+.centro{
+   position: absolute;
+   display: inline-block;
+   width: 150px;
+   height: 150px;
+   border: 1.5px solid white;
+   margin-left: 26%;
+   margin-top: 17%;
+   border-radius: 100%;
+}
+.balon{
+   position: absolute;
+   width: 20px;
+   height: 20px;
+   border: .5px solid black;
+   background-color: white;
+   border-radius: 100%;
+}
+.uno{
+   left: 14%;
+   top: 27%;
+}
+.dos{
+   left: 55%;
+   top: 15%;
+}
+.tres{
+   left: 82%;
+   top: 65%;
+}
